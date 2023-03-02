@@ -5,7 +5,7 @@ int main()
 
 int numero = 0;
 
-std::cout<<"Insira um numero inteiro"<<"\n";
+std::cout<<"Insira um numero inteiro   "<<"\n";
 std::cin>>numero;
 
 int resto = numero % 2;
